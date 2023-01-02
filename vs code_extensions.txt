@@ -1,0 +1,7 @@
+auto rename tag
+better comments 
+html boilerplate
+html css support
+html snippits
+IntelliSense for CSS class names in HTML
+auto close tag

@@ -1,0 +1,50 @@
+media querries to check:
+________________________________
+
+~@media(min-width:1500px)
+
+~@media(max-width:1365px)
+
+~@media(max-width:1199px)
+
+~@media(max-width:991px)
+
+~@media(max-width:767px)
+
+~@media(max-width:575px)
+
+~@media(max-width:480px)
+
+~@media(max-width:420px)
+
+~@media(max-width:412px)
+
+~@media(max-width:393px)
+
+~@media(max-width:360px)
+
+~@media(max-width:320px)
+
+________
+
+
+check					Fixed
+_____				       ________
+
+1440
+
+1365
+
+1280
+_______
+992              ->    			1199
+
+768		 ->			991
+
+576              ->			767
+
+481		 ->			575
+
+421		 ->			480
+
+320		 ->			420
